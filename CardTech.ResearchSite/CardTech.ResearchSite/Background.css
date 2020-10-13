@@ -1,0 +1,9 @@
+﻿body #background{
+
+    flex-direction: column;
+    background-image: linear-gradient(black, red);
+    background-repeat: no-repeat;
+    background-size: cover;             
+
+}
+
